@@ -5,10 +5,6 @@ public class Carro extends Veiculo{
         super(marca, modelo, luxo, diaria, km);
     }
 
-    public Carro(String marca, String modelo, boolean luxo, String tipo, double diaria, int km){
-        super();
-    }
-
     public Carro() {
 
     }

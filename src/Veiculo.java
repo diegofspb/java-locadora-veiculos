@@ -1,9 +1,9 @@
 public class Veiculo {
-    String marca;
-    String modelo;
-    boolean luxo;
-    double diaria;
-    int km;
+    protected String marca;
+    protected String modelo;
+    protected boolean luxo;
+    protected double diaria;
+    protected int km;
 
     public Veiculo(String marca, String modelo, boolean luxo, double diaria, int km) {
         this.marca = marca;

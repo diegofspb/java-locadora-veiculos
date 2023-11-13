@@ -1,9 +1,6 @@
 import java.text.DecimalFormat;
 
 public class CalculoDiarias {
-    int dias;
-    int km;
-    double diaria;
 
     public static String calculo(int dias,int km, double diaria){
 
