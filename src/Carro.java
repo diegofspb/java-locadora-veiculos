@@ -13,11 +13,5 @@ public class Carro extends Veiculo{
 
     }
 
-    private static void exibirCarro() {
-        System.out.println("     _____");
-        System.out.println("____/_____\\____");
-        System.out.println("-(o)--------(o)");
-    }
-
 
 }
